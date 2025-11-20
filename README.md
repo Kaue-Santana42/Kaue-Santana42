@@ -1,16 +1,22 @@
-## Hi there 👋
+# A Curious Soul, I'm Kaue! ⚜️
 
-<!--
-**Kaue-Santana42/Kaue-Santana42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Technologies and Tools
+
+<p align="center">
+  ***Here are some languages and tools I've been learning***
+</p>
+
+---
+
+## 📊 A resume about my activities in GitHub 
+
+<p align="center">
+  ![Kaue GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaue-Santana42&show_icons=true&theme=dark)
+</p>
+
