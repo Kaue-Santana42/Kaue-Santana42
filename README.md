@@ -1,14 +1,3 @@
-# A Curious Soul, I'm Kaue! ⚜️
-
-<p align="center">
-  Avid Player 🎮 / Web Developer 🖥️
-</p>
-<p align="center">
-  Always eager to know something new, bringing my ideas to life! 🐦‍🔥
-</p>
-
----
-
 ## ⚙️ Technologies and Tools
 
 <p align="center">
